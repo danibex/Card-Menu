@@ -1,0 +1,51 @@
+body {
+    margin: 0px;
+}
+div .curso {
+    display: inline-block;
+    width: 250px;
+    height: 360px;
+    margin: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+    box-shadow: 5px 5px 15px 1px rgba(0, 0, 0, 0.2);
+}
+.box img {
+    width: 240px;
+    height: 135px;
+    margin: 5px;
+}
+.curso-preco {
+    float: right;
+    margin: 5px 10px;
+}
+.curso-info {
+    width: 240px;
+    height: 150px;
+    margin: 5px;
+    position: relative;
+}
+#professor {
+    display: none;
+}
+div {
+    border: 1px solid rgb(255, 255, 255);
+}
+h4 {
+    font-weight: lighter;
+}
+p {
+    font-size: 18px;
+}
+.preco-de {
+    color: rgb(180, 3, 3);
+    font-size: 18px;
+    font-weight: bolder;
+    text-decoration: line-through;
+}
+.preco-por {
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+}
